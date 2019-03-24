@@ -11,8 +11,7 @@ function yourAnimal() {
   var animal = 'cat';
   return animal
 }
-//yourAnimal();
-//animal;
+
 //--------------------------------------------------------------------->
 function add2(n) {
   //var n = 5;
@@ -28,7 +27,7 @@ var funkyFunction = function() {
 }
 
 // We want to set theFunk equal to "FUNKY!" using our funkyFunction.
-// NOTE: you only need to modify the code below this line.
+// NO: you only need to modify the code below this line.
 var theFunk = funkyFunction()
 
 theFunk();
