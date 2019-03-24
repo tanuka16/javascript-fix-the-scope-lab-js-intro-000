@@ -16,11 +16,10 @@ animal;
 //--------------------------------------------------------------------->
 function add2(n) {
   var n = 5;
-  //return n + two;
+  return n + two;
   // Feel free to move things around!
   const two = 2
-  return n + two;
-  console.log(n);
+  //console.log(n);
 }
 //add2();
 //--------------------------------------------------------------------->
