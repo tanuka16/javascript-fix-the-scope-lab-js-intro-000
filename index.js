@@ -11,8 +11,8 @@ function yourAnimal() {
   var animal = 'cat';
   return animal
 }
-yourAnimal();
-animal;
+//yourAnimal();
+//animal;
 //--------------------------------------------------------------------->
 function add2(n) {
   //var n = 5;
