@@ -16,7 +16,7 @@ animal;
 //--------------------------------------------------------------------->
 function add2(n) {
   return n + two
-  
+  var n = 5;
   // Feel free to move things around!
   const two = 2
 }
